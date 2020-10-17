@@ -1,0 +1,21 @@
+{
+    "name": "synth-wave-custom",
+    "displayName": "synth_wave_custom",
+    "description": "Synth Wave Color Theme Fork",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Synth Wave '84 Luis Remix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Synth Wave '84 Luis Remix-color-theme.json"
+            }
+        ]
+    }
+}
