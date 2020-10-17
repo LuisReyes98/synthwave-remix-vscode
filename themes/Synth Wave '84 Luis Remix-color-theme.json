@@ -146,6 +146,17 @@
 		"breadcrumbPicker.background": "#232530"
 	},
 	"tokenColors": [
+		// {
+		// 	"name": "Keyword, Storage",
+		// 	"scope": [
+		// 		"keyword",
+		// 		"storage.type",
+		// 		"storage.modifier"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#25250b"
+		// 	}
+		// },
 		{
 			"name": "Comment",
 			"scope": [
@@ -343,14 +354,14 @@
 			"name": "Control keyword",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#fede5d"
+				"foreground": "#fede5d" // if else statements
 			}
 		},
 		{
 			"name": "Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#fede5d"
+				"foreground": "#fad130" // operadores : ==
 			}
 		},
 		{
