@@ -167,6 +167,7 @@
 				"foreground": "#ff8b39"
 			}
 		},
+		
 		{
 			"name": "Punctuation within templates",
 			"scope": "string.template meta.embedded.line",
@@ -852,6 +853,21 @@
 			],
 			"settings": {
 				"foreground": "#ff7edbff"
+			}
+		},
+		{
+			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"scope": [
+				"string",
+				"constant.other.symbol",
+				"constant.other.key",
+				"entity.other.inherited-class",
+				"markup.heading",
+				"markup.inserted.git_gutter",
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+			],
+			"settings": {
+				"foreground": "#f3c061fd"
 			}
 		},
 		{
