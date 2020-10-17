@@ -146,17 +146,6 @@
 		"breadcrumbPicker.background": "#232530"
 	},
 	"tokenColors": [
-		// {
-		// 	"name": "Keyword, Storage",
-		// 	"scope": [
-		// 		"keyword",
-		// 		"storage.type",
-		// 		"storage.modifier"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#25250b"
-		// 	}
-		// },
 		{
 			"name": "Comment",
 			"scope": [
@@ -866,7 +855,7 @@
 				"source.scala"
 			],
 			"settings": {
-				"foreground": "#ff7edbff"
+				"foreground": "#f3c8e3" // dart, python scala main color
 			}
 		},
 		{
