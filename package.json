@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synth Wave '84 Luis Remix",
+                "label": "Synth Wave '84 Luis Reyes' Remix",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Synth Wave '84 Luis Remix-color-theme.json"
+                "path": "./themes/synth-wave-remix-color-theme.json"
             }
         ]
     }

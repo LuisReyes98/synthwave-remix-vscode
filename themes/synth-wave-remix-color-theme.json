@@ -1,5 +1,5 @@
 {
-	"name": "SynthWave 84",
+	"name": "SynthWave '84 Rogelio Remix",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"colors": {
@@ -163,7 +163,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ff5fe4"
+				"foreground": "#cc4d82"
 			}
 		},
 		{
